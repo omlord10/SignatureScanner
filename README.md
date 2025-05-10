@@ -19,7 +19,7 @@ the target file to detect potential infections.
 ## 🧬 Virus Signature Format
 
 Signature file must contain exactly one line with the following format:
-<HEX SIGNATURE> <HEX OFFSET> <VIRUS NAME>
+<HEX SIGNATURE> <HEX OFFSET> <VIRUS NAME>.
 
 ### Where:
 - `<HEX SIGNATURE>` is a space-separated sequence of bytes in hexadecimal format 
